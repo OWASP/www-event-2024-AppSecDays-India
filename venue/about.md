@@ -6,4 +6,4 @@ permalink: /venue/about/
 
 ---
 
-TBD
+Virtual
