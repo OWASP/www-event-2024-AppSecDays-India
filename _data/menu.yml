@@ -12,8 +12,8 @@
   items:
      - title: Exhibitor & Sponsorship Prospectus 
        url: /sponsorship/
-    #- title: Exhibitors & Sponsors
-    #  url: 
+    - title: Sponsors
+      url: https://india.appsecdays.org/sponsorship/
     #- title: Exhibitor Kit
     # url: /exhibitordetails/
 - title: ABOUT
