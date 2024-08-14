@@ -4,14 +4,10 @@
   items:
 #    - title: Schedule
 #      url : /schedule/
-#    - title: Training
-#      url : /trainings/
 #    - title: Event Images
 #      url : /media/
-     - title: Call for Trainers
-       url: https://owasp.submittable.com/submit/291886/2024-global-appsec-san-francisco-cft
      - title: Call for Papers - OPENS MAY 20
-       url: /
+       url: https://owasp.submittable.com/submit/295266/2024-owasp-virtual-appsec-days-india
 - title: EXHIBIT & SPONSOR 
   items:
      - title: Exhibitor & Sponsorship Prospectus 
@@ -27,7 +23,5 @@
   #    url: /volunteer/
     - title: OWASP Merchandise
       url: https://owasp.org/store
-  #  - title: Hotel Booking 
-  #    url: 
     - title: Event Code of Conduct
       url: /event/codeofconduct/
