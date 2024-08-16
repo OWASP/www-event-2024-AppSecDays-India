@@ -2,10 +2,6 @@
   url: /
 - title: PROGRAM
   items:
-#    - title: Schedule
-#      url : /schedule/
-#    - title: Event Images
-#      url : /media/
      - title: Call for Papers - Closes September 03rd
        url: https://owasp.submittable.com/submit/295266/2024-owasp-virtual-appsec-days-india
 - title: EXHIBIT & SPONSOR 
@@ -14,13 +10,8 @@
        url: /sponsorship/
     - title: Sponsors
       url: https://india.appsecdays.org/sponsorship/
-    #- title: Exhibitor Kit
-    # url: /exhibitordetails/
 - title: ABOUT
-  #url: /about/
   items:
-  #  - title: Volunteer
-  #    url: /volunteer/
     - title: OWASP Merchandise
       url: https://owasp.org/store
     - title: Event Code of Conduct
